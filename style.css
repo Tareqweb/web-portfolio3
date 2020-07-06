@@ -1,0 +1,34 @@
+body{
+
+    font-family: 'Crimson Text', serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.buy-now-button{
+    background-image:linear-gradient( to bottom,#110208 0%,#14030a 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    box-shadow:5px 5px 10px lightgray;
+    border-radius: 5px;
+ }
+ .cat-g{
+     text-align:center;
+ }
+ .container1{
+    margin-bottom: 100px;
+ }
+ .l-f{
+     float: right;
+     color: orange;
+ }
